@@ -1,0 +1,36 @@
+﻿Restaurant,Cuisine,Rating,MenuItem,Category,Price,Calories,Ingredients
+Bella Italia,Italian,4.7,Spaghetti Bolognese,Pasta,15.99,820,Spaghetti|false|;Ground Beef|false|;Tomato Sauce|false|;Parmesan|true|Dairy
+Bella Italia,Italian,4.7,Fettuccine Alfredo,Pasta,16.99,940,Fettuccine|false|;Cream|true|Dairy;Parmesan|true|Dairy;Butter|true|Dairy
+Bella Italia,Italian,4.7,Margherita Pizza,Pizza,14.49,760,Pizza Dough|true|Gluten;Tomato Sauce|false|;Mozzarella|true|Dairy;Basil|false|
+Bella Italia,Italian,4.7,Chicken Parmesan,Entree,18.99,980,Chicken|false|;Breadcrumbs|true|Gluten;Mozzarella|true|Dairy;Marinara|false|
+Bella Italia,Italian,4.7,Tiramisu,Dessert,7.49,540,Mascarpone|true|Dairy;Coffee|false|;Ladyfingers|true|Gluten;Cocoa|false|
+,,,,,,,
+Dragon Palace,Chinese,4.4,Orange Chicken,Entree,13.99,790,Chicken|false|;Orange Sauce|false|;Rice|false|
+Dragon Palace,Chinese,4.4,Kung Pao Chicken,Entree,14.99,710,Chicken|false|;Peanuts|true|Peanuts;Bell Peppers|false|;Chili Sauce|false|
+Dragon Palace,Chinese,4.4,Vegetable Fried Rice,Rice,10.99,610,Rice|false|;Carrots|false|;Peas|false|;Egg|true|Egg
+Dragon Palace,Chinese,4.4,Beef Lo Mein,Noodles,13.49,740,Noodles|true|Gluten;Beef|false|;Soy Sauce|true|Soy;Cabbage|false|
+Dragon Palace,Chinese,4.4,Egg Roll,Appetizer,4.99,320,Cabbage|false|;Carrots|false|;Wrapper|true|Gluten
+,,,,,,,
+Fiesta Grill,Mexican,4.6,Chicken Tacos,Tacos,11.99,640,Chicken|false|;Tortilla|true|Gluten;Lettuce|false|;Cheese|true|Dairy
+Fiesta Grill,Mexican,4.6,Beef Burrito,Burrito,12.99,910,Beef|false|;Rice|false|;Beans|false|;Cheese|true|Dairy;Tortilla|true|Gluten
+Fiesta Grill,Mexican,4.6,Nachos,Appetizer,10.49,980,Tortilla Chips|false|;Cheese|true|Dairy;Jalapenos|false|;Sour Cream|true|Dairy
+Fiesta Grill,Mexican,4.6,Chicken Quesadilla,Quesadilla,11.49,720,Chicken|false|;Cheese|true|Dairy;Tortilla|true|Gluten
+Fiesta Grill,Mexican,4.6,Churros,Dessert,5.99,450,Flour|true|Gluten;Sugar|false|;Cinnamon|false|
+,,,,,,,
+Pacific Sushi,Japanese,4.8,California Roll,Sushi,9.99,420,Rice|false|;Crab|true|Shellfish;Avocado|false|;Cucumber|false|
+Pacific Sushi,Japanese,4.8,Spicy Tuna Roll,Sushi,11.49,460,Rice|false|;Tuna|false|;Spicy Mayo|true|Egg
+Pacific Sushi,Japanese,4.8,Salmon Nigiri,Sushi,12.99,310,Rice|false|;Salmon|false|
+Pacific Sushi,Japanese,4.8,Miso Soup,Soup,3.99,110,Miso|true|Soy;Tofu|true|Soy;Seaweed|false|
+Pacific Sushi,Japanese,4.8,Tempura Shrimp,Appetizer,8.99,520,Shrimp|true|Shellfish;Batter|true|Gluten;Oil|false|
+,,,,,,,
+Burger Barn,American,4.3,Classic Burger,Burger,12.49,880,Beef Patty|false|;Bun|true|Gluten;Lettuce|false|;Tomato|false|;Cheese|true|Dairy
+Burger Barn,American,4.3,Bacon Cheeseburger,Burger,14.49,1030,Beef Patty|false|;Bacon|false|;Cheese|true|Dairy;Bun|true|Gluten
+Burger Barn,American,4.3,Chicken Sandwich,Sandwich,11.99,720,Chicken|false|;Bun|true|Gluten;Lettuce|false|;Tomato|false|
+Burger Barn,American,4.3,French Fries,Side,3.99,410,Potatoes|false|;Salt|false|
+Burger Barn,American,4.3,Chocolate Shake,Dessert,5.49,680,Milk|true|Dairy;Chocolate|false|;Ice Cream|true|Dairy
+,,,,,,,
+Green Garden,Vegan,4.5,Veggie Burger,Burger,11.99,520,Veggie Patty|false|;Bun|true|Gluten;Lettuce|false|;Tomato|false|
+Green Garden,Vegan,4.5,Quinoa Salad,Salad,10.49,390,Quinoa|false|;Spinach|false|;Tomatoes|false|;Cucumber|false|
+Green Garden,Vegan,4.5,Lentil Soup,Soup,8.49,310,Lentils|false|;Carrots|false|;Celery|false|
+Green Garden,Vegan,4.5,Avocado Toast,Breakfast,9.49,450,Bread|true|Gluten;Avocado|false|;Tomatoes|false|
+Green Garden,Vegan,4.5,Fruit Bowl,Dessert,6.49,220,Strawberries|false|;Blueberries|false|;Banana|false|
